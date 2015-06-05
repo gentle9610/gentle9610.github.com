@@ -39,7 +39,9 @@ address:
   - line: 가전리 병천면 한국기술교육대
 
 # Credits content
-credits: '2015학년도 1학기 컴퓨터 기초 설계 2분반 7조</a>.'
+credits: 
+  -line: 2015학년도 1학기 
+  -line: 컴퓨터 기초 설계 2분반 7조
 
 # Build settings
 markdown: kramdown
