@@ -7,6 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 김시연 사랑해
+description: we are the champion!
+쓰고싶은말 써
+ㅋㅋㅋ 써!!!
+나처럼해봐요 요롷게
+뀨뀨뀨뀨뀨뀨뀨뀨밍미임이밍
 
 ---
