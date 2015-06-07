@@ -18,19 +18,19 @@ category: Web Development
             <div>
             
             <div class="col-lg-15 text-center">
-                        <h4>2012년 개봉한 애니메이션</h4>
+                        <h4>포스터를 클릭하세요</h4>
                   </div>
             <div>
             
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "30%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
