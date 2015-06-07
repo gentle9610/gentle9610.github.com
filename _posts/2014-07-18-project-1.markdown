@@ -36,7 +36,7 @@ category: Web Development
             <section id="movie">
             <div class="container">
               <div class="row">
-                <div class="col-lg-3 text-center">
+                <div class="col-lg-4 text-center">
                     <h2>2013년</h2>
                     <hr class="star-primary">
             </div>
