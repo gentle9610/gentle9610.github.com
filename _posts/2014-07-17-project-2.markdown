@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: we are the champion!쓰고싶은말 써ㅋㅋㅋ 써!!!나처럼해봐요 요롷게뀨뀨뀨뀨뀨뀨뀨뀨밍미임이밍
+description: 
 
 ---
