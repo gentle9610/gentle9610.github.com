@@ -17,7 +17,7 @@ category: Web Development
                   </div>
             <div>
             
-            <div class="col-lg-8 text-center">
+            <div class="col-lg-7 text-center">
                         <h3>2012년 개봉한 애니메이션</h3>
                   </div>
             <div>
@@ -39,7 +39,7 @@ category: Web Development
             <section id="movie">
             <div class="container">
               <div class="row">
-                <div class="col-lg-7 text-center">
+                <div class="col-lg-12 text-center">
                     <h2>2013년</h2>
                     <hr class="star-primary">
             </div>
