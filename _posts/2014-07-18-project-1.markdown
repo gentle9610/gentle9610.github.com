@@ -63,6 +63,8 @@ category: Web Development
                     <hr class="star-primary">
             </div>
             <div>
+            <div class="col-sm-7 portfolio-item">
+            
             <div class="col-sm-3 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100931"><img width = "30%" src="http://imgnews.naver.net/image/origin/396/2013/12/03/147139.jpg" align="center">
             </div>
