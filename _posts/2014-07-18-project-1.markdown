@@ -15,7 +15,6 @@ description:
             </div>
             <div>
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=114276"><img width = "30%" src="http://movie.phinf.naver.net/20141120_253/1416449434640NRPvz_JPEG/movie_image.jpg" align="center">
-
             </div>
-<div>
+            <div>
 ---
