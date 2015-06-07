@@ -11,7 +11,7 @@ category: Web Development
             <section id="movie">
             <div class="container">
               <div class="column">
-                <div class="col-lg-1 text-center">
+                <div class="col-lg-8 text-center">
                     <h2>2012년</h2>
                     <hr class="star-primary">
                   </div>
