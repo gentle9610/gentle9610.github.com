@@ -17,8 +17,8 @@ category: Web Development
                   </div>
             <div>
             
-            <div class="col-lg-20 text-center">
-                        <h4>2012년 개봉한 애니메이션</h4>
+            <div class="col-lg-8 text-center">
+                        <h3>2012년 개봉한 애니메이션</h3>
                   </div>
             <div>
             
