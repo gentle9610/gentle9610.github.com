@@ -4,9 +4,6 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 
             <section id="movie">
             <div class="container">
@@ -17,7 +14,7 @@ category: Web Development
                   </div>
             <div>
             
-            <div class="col-sm-20 portfolio-item">
+            <div class="col-sm-6 portfolio-item">
             
             <div class="col-sm-6 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
