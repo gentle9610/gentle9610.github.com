@@ -17,7 +17,7 @@ category: Web Development
                   </div>
             <div>
             
-            <div class="col-lg-7 text-center">
+            <div class="col-lg-1 text-center">
                   </div>
             <div>
             
