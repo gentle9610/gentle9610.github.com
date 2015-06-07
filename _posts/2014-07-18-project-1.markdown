@@ -21,21 +21,20 @@ category: Web Development
             <div class="col-lg-7 text-center">
             
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "50%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "70%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "50%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "70%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "50%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "70%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
 
-            
             <section id="movie">
-            <div class="container2">
+            <div class="container">
               <div class="row">
                 <div class="col-lg-7 text-center">
                     <h2>2013년</h2>
@@ -46,19 +45,20 @@ category: Web Development
             <div class="col-lg-7 text-center">
             
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100930"><img width = "50%" src="http://movie.phinf.naver.net/20131203_110/1386058695287TE2th_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100930"><img width = "70%" src="http://movie.phinf.naver.net/20131203_110/1386058695287TE2th_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=79435"><img width = "50%" src="http://movie.phinf.naver.net/20130516_238/13686843036851Mn0N_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=79435"><img width = "70%" src="http://movie.phinf.naver.net/20130516_238/13686843036851Mn0N_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
             <div class="col-sm-4 portfolio-item">
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97826"><img width = "50%" src="http://movie.phinf.naver.net/20130709_170/1373351401261fhvOS_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97826"><img width = "70%" src="http://movie.phinf.naver.net/20130709_170/1373351401261fhvOS_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
+            
             <section id="movie">
-            <div class="container3">
+            <div class="container">
               <div class="row">
                 <div class="col-lg-7 text-center">
                     <h2>2014년</h2>
