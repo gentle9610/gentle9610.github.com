@@ -16,10 +16,10 @@ category: Web Development
                     <hr class="star-primary">
                   </div>
             <div>
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" width="200" height="150" border="1" hspace="20">
             </div>
             <div>
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" width="200" height="150" border="1" hspace="20">
             </div>
             <div>
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "30%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
