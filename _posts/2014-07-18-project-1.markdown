@@ -11,19 +11,21 @@ category: Web Development
             <section id="movie">
             <div class="container">
               <div class="column">
-                <div class="col-lg-8 text-center">
+                <div class="col-lg-12 text-center">
                     <h2>2012년</h2>
                     <hr class="star-primary">
                   </div>
             <div>
             
-            <div class="col-sm-3 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "30%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
