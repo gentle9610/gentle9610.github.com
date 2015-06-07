@@ -18,7 +18,7 @@ category: Web Development
             <div>
             <div>
             
-            <div class="col-lg-7 text-center">
+            <div class="col-lg-9 text-center">
             
             <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "70%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
