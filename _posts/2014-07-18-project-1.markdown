@@ -14,8 +14,8 @@ description: 2014년
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=76020"><img width = "30%" src="http://movie.phinf.naver.net/20140708_11/1404782835780MO3FQ_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
- <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=114276"><img width = "30%" src="" align="center">
- src="http://movie.phinf.naver.net/20141120_253/1416449434640NRPvz_JPEG/movie_image.jpg" align="center">
+ <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=114276"><img width = "30%" src="http://movie.phinf.naver.net/20141120_253/1416449434640NRPvz_JPEG/movie_image.jpg" align="center">
+
             </div>
 <div>
 ---
