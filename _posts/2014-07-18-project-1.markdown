@@ -7,6 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
+
+            <section id="movie">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
@@ -23,7 +25,8 @@ category: Web Development
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-<div class="row">
+            
+            <section id="movie">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
@@ -40,7 +43,7 @@ category: Web Development
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97826"><img width = "30%" src="http://movie.phinf.naver.net/20130709_170/1373351401261fhvOS_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-<div class="row">
+            <section id="movie">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12 text-center">
