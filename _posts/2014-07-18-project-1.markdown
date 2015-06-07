@@ -22,15 +22,15 @@ category: Web Development
                   </div>
             <div>
             
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87307"><img width = "30%" src="http://movie.phinf.naver.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-6 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=97975"><img width = "30%" src="http://movie.phinf.naver.net/20121017_232/1350465335206OQwW0_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
@@ -66,15 +66,15 @@ category: Web Development
             </div>
             <div>
             
-            <div class="col-sm-3 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100931"><img width = "30%" src="http://imgnews.naver.net/image/origin/396/2013/12/03/147139.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-3 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=76020"><img width = "30%" src="http://movie.phinf.naver.net/20140708_11/1404782835780MO3FQ_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
-            <div class="col-sm-3 portfolio-item">
+            <div class="col-sm-4 portfolio-item">
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=114276"><img width = "30%" src="http://movie.phinf.naver.net/20141120_253/1416449434640NRPvz_JPEG/movie_image.jpg" align="center">
             </div>
             <div>
