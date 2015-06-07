@@ -7,12 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-<div class="row">
+            <div class="container">
+              <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>2012년</h2>
                     <hr class="star-primary">
-                </div>
-            </div>
+                  </div>
             <div>
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=87308"><img width = "30%" src="http://movie.phinf.naver.net/20121016_156/13503550190145oVrC_JPEG/movie_image.jpg" align="center">
             </div>
@@ -24,10 +24,11 @@ category: Web Development
             </div>
             <div>
 <div class="row">
+            <div class="container">
+              <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>2013년</h2>
                     <hr class="star-primary">
-                </div>
             </div>
             <div>
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100930"><img width = "30%" src="http://movie.phinf.naver.net/20131203_110/1386058695287TE2th_JPEG/movie_image.jpg" align="center">
@@ -40,10 +41,11 @@ category: Web Development
             </div>
             <div>
 <div class="row">
+            <div class="container">
+              <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>2014년</h2>
                     <hr class="star-primary">
-                </div>
             </div>
             <div>
  <a href="http://movie.naver.com/movie/bi/mi/basic.nhn?code=100931"><img width = "30%" src="http://imgnews.naver.net/image/origin/396/2013/12/03/147139.jpg" align="center">
